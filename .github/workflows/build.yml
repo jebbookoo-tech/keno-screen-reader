@@ -46,4 +46,4 @@ steps:
     uses: actions/upload-artifact@v4
     with:
       name: KenoScreenReader-debug-apk
-      path: project/app/build/outputs/apk/debug/app-debug.apk
+      path: project/app/build/outputs/apk/debug/app-debug.
